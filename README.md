@@ -13,10 +13,10 @@ Ddio technique can be used in following
 
 Requirements
 ============
-> MMU
-> CUDA with compute engine at least 2.0 and 
+* MMU
+* CUDA with compute engine at least 2.0 and 
   CUDA implementation at least 5.0 with RDMA support
-> DMA
+* DMA
 
 
 Specification is in progress...

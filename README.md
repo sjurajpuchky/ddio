@@ -18,4 +18,5 @@ Requirements
   CUDA implementation at least 5.0 with RDMA support
 > DMA
 
-* Specification is in progress...
+
+Specification is in progress...
